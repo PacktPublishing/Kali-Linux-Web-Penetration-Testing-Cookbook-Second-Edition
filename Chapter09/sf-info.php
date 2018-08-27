@@ -1,0 +1,4 @@
+<?
+system('pwd');
+system('ls');
+?>

