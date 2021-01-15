@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Kali Linux Web Penetration Testing Cookbook - Second Edition
 
 <a href="https://www.packtpub.com/networking-and-servers/kali-linux-web-penetration-testing-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991513 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781788991513.png" alt="Kali Linux Web Penetration Testing Cookbook - Second Edition" height="256px" align="right"></a>
